@@ -1,2 +1,2 @@
 # AzureProject
-Test Project to get familiae
+Test Project to get familiar with Azure
