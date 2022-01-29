@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8fdbcf6c-cb39-4f5d-b5a7-a07b6b39ebbc/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/FrugalMealPlannerService",
+    "appService.deploySubpath": "."
+}
